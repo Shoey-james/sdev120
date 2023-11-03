@@ -1,3 +1,3 @@
 # sdev120
-Computing Logic
+#Computing Logic
 Python submissions for class
